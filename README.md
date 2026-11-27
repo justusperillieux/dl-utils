@@ -5,7 +5,7 @@ This package contains mainly loss functions, model definitions and metrics in bo
 
 ## Installation
 ### From source
-`pip install git+https://github.com/justusschock/dl-utils`
+`pip install git+https://github.com/justusperillieux/dl-utils`
 
 ### From PyPi
 `pip install deep-learning-utils`
